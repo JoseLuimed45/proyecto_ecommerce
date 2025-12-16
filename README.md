@@ -108,4 +108,4 @@ proyecto_ecommerce/
 
 ---
 
-Este README resume las funcionalidades, endpoints, pasos de ejecución, pruebas y estructura del proyecto para fines de auditoría.
+Este README resume las funcionalidades, endpoints, pasos de ejecución, pruebas y estructura del proyecto,
